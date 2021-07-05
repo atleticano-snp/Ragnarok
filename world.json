@@ -73,7 +73,7 @@
     }
   ],
   "system": "dnd5e",
-  "manifest": "https://5e.tool/plutonium/cos/world.json",
+  "manifest": "https://raw.githubusercontent.com/atleticano-snp/Ragnarok/main/world.json",
   "download": "https://thetrove.net/Books/Dungeons%20&%20Dragons/5th%20Edition%20(5e)/FoundryVTT/world/cos.zip",
   "dependencies": [],
   "socket": false,
