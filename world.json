@@ -1,0 +1,86 @@
+{
+  "name": "ragnarok",
+  "title": "Ragnarok",
+  "description": "<p> </p>\n<p>Por incontáveis anos, homens e deuses foram esperando por nada mais do que este momento. </p>\n<p>A última música de Gjallarhorn ainda soa e agita seu sangue em suas veias, enchendo você de coragem e velando seus olhos com lágrimas valentes. Você se sente pronto para dar o seu melhor por Odhinn, para Asgardr, para os nove mundos, para seus companheiros caídos </p>\n<p>e por qualquer coisa boa e bela que resta antes escuridão e inverno engoliram o mundo. </p>\n<p>A hora tão temida e esperada finalmente chegou.</p>\n<p>O RAGNAROK COMEÇOU!</p>\n<p> </p>\n<p>________________________________</p>\n<p> </p>\n<p>O inverno começou mais cedo. As colheitas são fracas, o gado adoece ou morre de congelamento e o terrível estado do mar atrasa ataques e missões comerciais. Até agora o clã tem sido capaz de sobreviver com os recursos acumulados durante o anos de abundância, mas logo se esgotarão. Você foi convocado para auxiliar na sobrevivência do clã. Se apresente ao líder da guilda de caça ainda hoje, ele tem uma tarefa para um grupo de bravos guerreiros. </p>\n<p> </p>",
+  "authors": [],
+  "flags": {},
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.0.0",
+  "compatibleCoreVersion": "1.0.0",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [
+    {
+      "label": "Maps",
+      "entity": "Scene",
+      "name": "maps",
+      "path": "packs/maps.db",
+      "system": "dnd5e",
+      "package": "world",
+      "private": false,
+      "absPath": "packs/maps.db"
+    },
+    {
+      "label": "Journal",
+      "entity": "JournalEntry",
+      "name": "journal",
+      "path": "packs/journal.db",
+      "system": "dnd5e",
+      "package": "world",
+      "private": false,
+      "absPath": "packs/journal.db"
+    },
+    {
+      "label": "Atores",
+      "entity": "Actor",
+      "name": "atores",
+      "path": "packs/atores.db",
+      "system": "dnd5e",
+      "package": "world",
+      "private": false,
+      "absPath": "packs/atores.db"
+    },
+    {
+      "label": "Music",
+      "entity": "Playlist",
+      "name": "music",
+      "path": "packs/music.db",
+      "system": "dnd5e",
+      "package": "world",
+      "private": false,
+      "absPath": "packs/music.db"
+    },
+    {
+      "label": "Item",
+      "entity": "Item",
+      "name": "item",
+      "path": "packs/item.db",
+      "system": "dnd5e",
+      "package": "world",
+      "private": false,
+      "absPath": "packs/item.db"
+    },
+    {
+      "label": "Macros",
+      "entity": "Macro",
+      "name": "macros",
+      "path": "packs/macros.db",
+      "system": "dnd5e",
+      "package": "world",
+      "private": false
+    }
+  ],
+  "system": "dnd5e",
+  "manifest": "https://5e.tool/plutonium/cos/world.json",
+  "download": "https://thetrove.net/Books/Dungeons%20&%20Dragons/5th%20Edition%20(5e)/FoundryVTT/world/cos.zip",
+  "dependencies": [],
+  "socket": false,
+  "protected": false,
+  "background": "worlds/ragnarok/scenes/Capa.png",
+  "coreVersion": "0.8.8",
+  "nextSession": "1970-01-01T00:00:00.000Z",
+  "resetKeys": false,
+  "safeMode": false
+}
